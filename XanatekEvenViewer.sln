@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XanatekEvenViewer", "XanatekEvenViewer\XanatekEvenViewer.csproj", "{76E077B0-A62B-4500-BDF4-7DAB834D1151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XanatekEventAPI", "XanatekEventAPI\XanatekEventAPI.csproj", "{BC6A9EF8-E524-4321-A29B-A8D053B5FECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E077B0-A62B-4500-BDF4-7DAB834D1151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E077B0-A62B-4500-BDF4-7DAB834D1151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E077B0-A62B-4500-BDF4-7DAB834D1151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E077B0-A62B-4500-BDF4-7DAB834D1151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6A9EF8-E524-4321-A29B-A8D053B5FECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6A9EF8-E524-4321-A29B-A8D053B5FECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6A9EF8-E524-4321-A29B-A8D053B5FECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6A9EF8-E524-4321-A29B-A8D053B5FECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262445E4-6D47-4CBD-ACDC-936B571EE6DF}
+	EndGlobalSection
+EndGlobal
